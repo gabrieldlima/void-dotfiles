@@ -34,10 +34,10 @@ separator_fg = "#0f0f0f"
 block = "scratchpad"
 format = "  $count "
 
-[[block]]
-block = "temperature"
-format = " $icon $average "
-format_alt = " $icon $min/$average/$max "
+# [[block]]
+# block = "temperature"
+# format = " $icon $average "
+# format_alt = " $icon $min/$average/$max "
 
 [[block]]
 block = "cpu"
